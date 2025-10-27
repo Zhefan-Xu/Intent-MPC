@@ -50,9 +50,6 @@ git clone https://github.com/Zhefan-Xu/Intent-MPC.git
 # step 3: follow the standard catkin_make procedure
 cd ~/catkin_ws
 catkin_make
-
-# step 4: add environment variables to your ~/.bashrc
-echo 'source path/to/uav_simulator/gazeboSetup.bash' >> ~/.bashrc
 ```
 
 
